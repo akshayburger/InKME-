@@ -21,8 +21,8 @@
 
 ## 📁 Project Structure
 ```InkMe/
-├── app.py # Streamlit frontend
-├── slicer.py # Slices character grid into individual images
+├── main.py # Streamlit frontend
+├── text_slicer.py # Slices character grid into individual images
 ├── converter.py # Converts typed text to handwritten-style image
 ├── output_letters/ # Contains sliced character images (char_00 to char_51)
 │ ├── char_00.png
@@ -46,11 +46,11 @@ pip install -r requirements.txt
 
 
 # IMPORTANT:
-Make sure the handwriting grid image you upload is placed in the same directory as slicer.py (i.e., inside the main InkMe folder).
+Make sure the handwriting grid image you upload is placed in the same directory as textˍ_slicer.py (i.e., inside the main InkMe folder).
 
 
 
-## Run the file
+## Run the file in the terminal!
 
-streamlit run app.py
+python -m streamlit run main.py
 
