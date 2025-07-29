@@ -1,4 +1,4 @@
-# InkMe – Handwriting Generator ✍️🖋️
+# InkMe – Handwriting Generator 
 
 **InkMe** is a handwriting generator that takes user-inputted text and converts it into realistic-looking handwritten images using your own sliced character images. Perfect for custom notes, digital letters, or fun image creation!
 
