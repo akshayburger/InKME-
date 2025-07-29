@@ -28,6 +28,11 @@ InkMe/
 ├── output\_letters/ # Folder where sliced characters are stored
 ├── requirements.txt # Python dependencies
 └── README.md
+
+
+## BEFORE YOU EXECUTE!!
+
+
 Type this in your terminal:
 
 
@@ -36,12 +41,12 @@ pip install -r requirements.txt
 
 
 
-IMPORTANT:
+# IMPORTANT:
 Make sure the handwriting grid image you upload is placed in the same directory as slicer.py (i.e., inside the main InkMe folder).
 
 
 
-Run the file
+## Run the file
 
 streamlit run app.py
 
