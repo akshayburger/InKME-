@@ -20,7 +20,7 @@
 ---
 
 ## 📁 Project Structure
-InkMe/
+```InkMe/
 ├── app.py # Streamlit frontend
 ├── slicer.py # Slices character grid into individual images
 ├── converter.py # Converts typed text to handwritten-style image
@@ -30,7 +30,7 @@ InkMe/
 │ └── char_51.png
 ├── handwriting_grid.png # Your uploaded handwriting grid (6x10)
 ├── requirements.txt # Python dependencies
-└── README.md
+└── README.md```
 
 
 ## BEFORE YOU EXECUTE!!
