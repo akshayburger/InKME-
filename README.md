@@ -20,12 +20,15 @@
 ---
 
 ## 📁 Project Structure
-
 InkMe/
-├── main.py # Streamlit frontend
-├── text\_slicer.py # Extracts character images from handwriting grid
-├── converter.py # Converts text to stitched handwriting image
-├── output\_letters/ # Folder where sliced characters are stored
+├── app.py # Streamlit frontend
+├── slicer.py # Slices character grid into individual images
+├── converter.py # Converts typed text to handwritten-style image
+├── output_letters/ # Contains sliced character images (char_00 to char_51)
+│ ├── char_00.png
+│ ├── ...
+│ └── char_51.png
+├── handwriting_grid.png # Your uploaded handwriting grid (6x10)
 ├── requirements.txt # Python dependencies
 └── README.md
 
