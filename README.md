@@ -54,3 +54,7 @@ Make sure the handwriting grid image you upload is placed in the same directory 
 
 python -m streamlit run main.py
 
+## Example Working
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fce47b79-f8e5-4b8d-b4ba-718f0d29e3a8" />
+
+
