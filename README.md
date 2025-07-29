@@ -30,7 +30,8 @@
 │ └── char_51.png
 ├── handwriting_grid.png # Your uploaded handwriting grid (6x10)
 ├── requirements.txt # Python dependencies
-└── README.md```
+└── README.md
+```
 
 
 ## BEFORE YOU EXECUTE!!
